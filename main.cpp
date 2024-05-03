@@ -1,9 +1,11 @@
-//Student Name: Anushreya Sitoula
-
-//Teacher: Dr. Tyson McMillan
-
-//Date: 3/28/2024
-
+/* Creation date: 3-28-2024
+   Teacher: Dr. Tyson McMillan 
+   School: Tarrant County College
+   Purpose: A program to practice working with multi-dimensional arrays. Takes in 
+   weather information for two cities as inputs from the user.
+   Skills learned/gained from the assignment: I learned how to break a multi-dimensional
+   array to multiple one-dimensional arrays.
+*/
 //A program to practice working with multi-dimensional arrays
 
 #include <iostream>
